@@ -8,7 +8,7 @@ npm init -y
 ```
 This will create a `package.json` file in the directory. All packages installed will be shown here.
 
-3. install ***mongodb*** environment 
+3. install ***mongodb*** environment. Run the following in terminal.
 ```npm
 npm i mongodb dotenv
 ```
