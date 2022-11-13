@@ -1,0 +1,4 @@
+# we dont want these to be uploaded publicly
+
+\node_modules
+.env
